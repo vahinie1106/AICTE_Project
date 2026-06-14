@@ -1,1 +1,1 @@
-# AICTE_Project
+Garbage Image Classifier — AICTE Internship Project
